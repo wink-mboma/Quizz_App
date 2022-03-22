@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071455282506",
+    "firebase_url": "https://sygne-quiz-b96c0-default-rtdb.firebaseio.com",
+    "project_id": "sygne-quiz-b96c0",
+    "storage_bucket": "sygne-quiz-b96c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071455282506:android:305f4f622e985be7448db3",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071455282506-v94sbarnm94ljd05d3qqhung434dk3qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz",
+            "certificate_hash": "afccd78b7754592f417acd47c90a1e0d61f63f58"
+          }
+        },
+        {
+          "client_id": "1071455282506-8hvgf1055qenci7s9dd3gt79e6d1gftm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3K68aA81nHojFi1zb2W3pH_8q4g7edzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071455282506-8hvgf1055qenci7s9dd3gt79e6d1gftm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
